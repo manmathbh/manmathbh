@@ -2,7 +2,7 @@
 
 ---
 
-<h3 align="center">I Like doing Competitive Programming (Meta Hackercup SemiFinalist), Web Development and AI&ML :)</h3>
+<h3 align="center"> Competitive Programmer (Meta Hackercup SemiFinalist), Web Development and AI&ML :)</h3>
 
 ---
 
